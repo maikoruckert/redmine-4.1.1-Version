@@ -6,11 +6,8 @@ O Redmine é escrito usando o framework Ruby on Rails. Ele é multiplataforma e 
 
 Além de ser um software multiplataforma, também possibilita o uso integrado com vários repositórios tais como Svn, Git, Mercurial, Darcs, Cvs e Bazaar.
 
-
-Desenvolvedor	Jean-Philippe Lang
-Linguagem	Ruby on Rails
-Sistema operacional	Multiplataforma
-Gênero(s)	Gerência de projetos
 Licença	GNU General Public License
+
 Estado do desenvolvimento	Ativo
+
 Página oficial	www.redmine.org
